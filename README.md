@@ -10,7 +10,7 @@ cd projects
 ```
 After creating a folder proceed and clone the cypres repository
 
-Click [repo] (https://github.com/deotrrs/cypress_sample) and copy the ssh url for cloning
+Click [repo](https://github.com/deotrrs/cypress_sample) and copy the ssh url for cloning
 
 ```bash
 git clone https://github.com/deotrrs/cypress_sample
